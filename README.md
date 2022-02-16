@@ -7,4 +7,5 @@ krushik08/krushik08 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-This chat app crete for designing purpose only Using Reactjs, Tailwind CSS etc https://jerrychatapp.netlify.app/
+This chat app create for designing purpose only Using Reactjs, Tailwind CSS etc https://jerrychatapp.netlify.app/ and I am still add new design and features in my spare time
+ 
