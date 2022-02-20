@@ -9,3 +9,5 @@ You can click the Preview link to take a look at your changes.
 
 This chat app create for designing purpose only Using Reactjs, Tailwind CSS etc https://jerrychatapp.netlify.app/ and I am still add new design and features in my spare time
  
+HTML CSS JS
+     https://circular-gallery.netlify.app/
