@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krushik08
-- 👀 I’m interested in Frontend UI development
+- 👀 I’m interested in Fullstack development
 - 📫 How to reach me krushik8980@gmail.com
 
 <!---
